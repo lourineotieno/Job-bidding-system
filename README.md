@@ -15,6 +15,6 @@ I'm a passionate Computer Science student and aspiring software developer from K
 ## 📫 How to Reach Me
 - 📧 lourineachieng55@gmail.com
 - 🌐 Portfolio: *coming soon*
-- 🔗 LinkedIn: *add your link here*
+- 🔗 LinkedIn: *https://www.linkedin.com/in/lourine-otieno-5ab094330*
 
 > *"Build things. Break things. Learn fast."*
